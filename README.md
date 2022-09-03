@@ -1,7 +1,4 @@
-  <div>
-  <h1> Olá Meu nome é Gabriel  e eu sou Desenvolvedor Full Stack/Mobile</h1>
-  <h2>Atualmente trabalho na Somos Login como Estágiario de desenvolvimento</h2>
-  </div>
+ 
 
 <div align="center">
   <a href="https://github.com/Gabriels10-coder">
