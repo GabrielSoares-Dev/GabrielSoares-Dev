@@ -1,8 +1,9 @@
  
 
 <div align="center">
-  <a href="https://github.com/Gabriels10-coder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriels10-coder&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/GabrielSoares-Dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSoares-Dev
+&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriels10-coder&layout=compact&langs_count=7&theme=light"/>
 </div>
   
@@ -27,5 +28,5 @@
     <a href="https://www.linkedin.com/in/gabriel-soares-maciel-3690a41b4/"><img alt="linkedin" title="Linkedin"  widht:"40" height:"40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
   </div>
   
- ![Snake animation](https://github.com/Gabriels10-coder/Gabriels10-coder/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/GabrielSoares-Dev/GabrielSoares-Dev/blob/output/github-contribution-grid-snake.svg)
   
