@@ -1,6 +1,6 @@
 # Gabriel Soares Maciel
 
-Software developer at @Stefanini.
+Software developer at @Stefanini
 
   <div style="margin-bottom:50px">
   <a href="https://api.whatsapp.com/send?phone=5511942421224&text=Bem%20vindo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" title="WhatsApp"  widht:"40" height:"40"/></a>
