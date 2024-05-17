@@ -4,7 +4,7 @@ Software developer at @Stefanini
 
   <div style="margin-bottom:50px">
   <a href="https://api.whatsapp.com/send?phone=5511942421224&text=Bem%20vindo"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" title="WhatsApp"  widht:"40" height:"40"/></a>
-  <a href="https://www.linkedin.com/in/gabriel-soares-maciel-3690a41b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gsoaresmaciel" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
   <div align="center" >
